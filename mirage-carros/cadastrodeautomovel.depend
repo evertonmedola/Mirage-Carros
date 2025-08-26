@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1730155177 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\cadastrodeproprietario.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+
+1729723014 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\data.h
+
+1729726506 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\pessoa.h
+	"data.h"
+
+1730156512 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\pessoa.c
+	"pessoa.h"
+	"data.h"
+	"veiculo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1730853628 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\cadastrodeveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+
+1730156211 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\veiculo.h
+	"data.h"
+
+1730854309 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoa.h"
+	"data.h"
+	"veiculo.h"
+
+1730337519 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+
+1730854632 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\lerarquivoveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+
+1730854600 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel\salvararquivoveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+
+1732323924 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+	"vendas.h"
+
+1731106123 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\data.h
+
+1732323695 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\pessoa.h
+	"data.h"
+
+1731978074 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\veiculo.h
+
+1732323705 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\pessoa.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+
+1731104249 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\lerarquivoveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+
+1732323788 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\salvararquivoveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"veiculo.h"
+
+1732323941 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoa.h"
+	"data.h"
+	"veiculo.h"
+	"vendedor.h"
+	"vendas.h"
+
+1732323805 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\cadastrodeveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	"pessoa.h"
+	"veiculo.h"
+
+1730935889 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\removerveiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"veiculo.h"
+
+1732323669 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\arquivoscliente.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoa.h"
+
+1731978089 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\vendedor.h
+	"data.h"
+
+1731978237 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\arquivosvendedor.c
+	<stdio.h>
+	<stdlib.h>
+	"vendedor.h"
+
+1732323716 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\cadastrovendedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendedor.h"
+	"data.h"
+
+1732323736 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendas.h"
+	"data.h"
+
+1731978073 c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\vendas.h
+	"data.h"
+
+1731977954 source:c:\users\evert\onedrive\documentos\engenharia de software\2° periodo\linguagem de programação\projeto\projeto teste\cadastrodeautomovel - teste\salvarvendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"data.h"
+
